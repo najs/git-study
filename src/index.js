@@ -1,1 +1,3 @@
-console.log(12314234534645657);
+const sum = require('./sum');
+console.log(sum(5, 6));
+console.log(sum(5, 8));
